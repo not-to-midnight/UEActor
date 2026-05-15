@@ -1,0 +1,72 @@
+# Unreal Engine generated files
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vs/
+
+# Unreal local/editor state
+**/*.opensdf
+**/*.sdf
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+**/*.VC.db
+**/*.VC.opendb
+**/*.code-workspace
+
+# Generated IDE project files
+**/*.sln
+**/*.xcodeproj/
+**/*.xcworkspace/
+**/*.xcuserdata/
+**/xcuserdata/
+**/.idea/
+**/.vscode/
+
+# Build and packaging output
+**/Builds/
+**/Dist/
+**/Releases/
+**/Package/
+**/Packages/
+**/StagedBuilds/
+**/Saved/StagedBuilds/
+
+# Logs, crash reports, and runtime dumps
+**/*.log
+**/*.dmp
+**/*.tmp
+**/*.temp
+**/CrashReportClient/
+
+# macOS files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Rider / JetBrains Unreal caches
+**/.Rider*/
+**/.idea/
+
+# VS Code extension caches
+**/.history/
+
+# Keep these project assets tracked:
+# - *.uproject
+# - Config/
+# - Content/
+# - Source/
+# - Plugins/*/*.uplugin
+# - Build/ files that contain icons, launch images, or platform metadata
