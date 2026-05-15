@@ -63,6 +63,9 @@ $RECYCLE.BIN/
 # VS Code extension caches
 **/.history/
 
+# Local backups kept outside version control
+_local_backups/
+
 # Keep these project assets tracked:
 # - *.uproject
 # - Config/
